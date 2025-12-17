@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+#bhavesh{
+	width:600px;
+	height: 400px;
+	border:1px solid black;
+	 color:white;
+	background-image:url("https://storage.googleapis.com/acciojob-open-file-collections/center-image.png");
+	background-size:100% 100%
+	
+
+
+
+
+	
+}
